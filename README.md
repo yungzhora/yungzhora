@@ -41,8 +41,14 @@
 <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
 <img src="https://img.shields.io/badge/-pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest">
 <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+<img src="https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
+<img src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
 
 ## 📌 Проекты
+
+**[uptime-checker](https://github.com/yungzhora/uptime-checker)** — сервис мониторинга доступности сайтов.
+REST API на FastAPI с JWT, проверки по расписанию через Celery и Redis, история в PostgreSQL, уведомления в Telegram, метрики для Prometheus и Grafana, защита от SSRF, 50 тестов и CI в GitHub Actions.
+`Python` `FastAPI` `PostgreSQL` `Celery` `Redis` `Docker` `Prometheus`
 
 **[zero-id-backend](https://github.com/yungzhora/zero-id-backend)** — backend сервиса проверок безопасности Linux-серверов по SSH.
 REST API на FastAPI, фоновое выполнение проверок через Celery и Redis, хранение в PostgreSQL (async SQLAlchemy), SSH-клиент, разбор результатов.
@@ -51,6 +57,9 @@ REST API на FastAPI, фоновое выполнение проверок че
 **[hacaton](https://github.com/yungzhora/hacaton)** — система строительного контроля, хакатон «Лидеры цифровой трансформации 2025» (командный проект, форк репозитория команды).
 Моя часть backend на NestJS: модули сетевых графиков, дефектов и нарушений, актов и документов (с генерацией PDF), отчётности и KPI.
 `TypeScript` `NestJS` `PostgreSQL`
+
+**[ml-practice](https://github.com/yungzhora/ml-practice)** — практические работы по машинному обучению (РТУ МИРЭА): предобработка данных, классификация, синтетические табличные данные (CTGAN, GMM), классификация МРТ-снимков на PyTorch.
+`Python` `scikit-learn` `PyTorch` `Jupyter`
 
 **[todo-kubernetes-project](https://github.com/yungzhora/todo-kubernetes-project)** — развёртывание приложения в Kubernetes.
 `Kubernetes` `Shell`
