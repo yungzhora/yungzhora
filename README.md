@@ -48,6 +48,10 @@
 REST API на FastAPI, фоновое выполнение проверок через Celery и Redis, хранение в PostgreSQL (async SQLAlchemy), SSH-клиент, разбор результатов.
 `Python` `FastAPI` `PostgreSQL` `Celery` `Redis` `Docker`
 
+**[hacaton](https://github.com/yungzhora/hacaton)** — система строительного контроля, хакатон «Лидеры цифровой трансформации 2025» (командный проект, форк репозитория команды).
+Моя часть backend на NestJS: модули сетевых графиков, дефектов и нарушений, актов и документов (с генерацией PDF), отчётности и KPI.
+`TypeScript` `NestJS` `PostgreSQL`
+
 **[SoulBridge](https://github.com/yungzhora/SoulBridge)** — сайт знакомств на Django и MySQL.
 `Python` `Django` `MySQL`
 
