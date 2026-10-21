@@ -52,9 +52,6 @@ REST API на FastAPI, фоновое выполнение проверок че
 Моя часть backend на NestJS: модули сетевых графиков, дефектов и нарушений, актов и документов (с генерацией PDF), отчётности и KPI.
 `TypeScript` `NestJS` `PostgreSQL`
 
-**[SoulBridge](https://github.com/yungzhora/SoulBridge)** — сайт знакомств на Django и MySQL.
-`Python` `Django` `MySQL`
-
 **[todo-kubernetes-project](https://github.com/yungzhora/todo-kubernetes-project)** — развёртывание приложения в Kubernetes.
 `Kubernetes` `Shell`
 
