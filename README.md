@@ -44,9 +44,9 @@
 
 ## 📌 Проекты
 
-**[zero-id-backend](https://github.com/yungzhora/zero-id-backend)** — сервис проверок безопасности Linux-серверов по SSH.
-Единственный backend-разработчик: REST API, асинхронное сканирование, JWT, шифрование учётных данных, тесты.
-`Python` `FastAPI` `PostgreSQL` `Alembic` `Docker`
+**[zero-id-backend](https://github.com/yungzhora/zero-id-backend)** — backend сервиса проверок безопасности Linux-серверов по SSH.
+REST API на FastAPI, фоновое выполнение проверок через Celery и Redis, хранение в PostgreSQL (async SQLAlchemy), SSH-клиент, разбор результатов.
+`Python` `FastAPI` `PostgreSQL` `Celery` `Redis` `Docker`
 
 **[hacaton](https://github.com/yungzhora/hacaton)** — система строительного контроля, «Лидеры цифровой трансформации 2025».
 Командный проект за 48 часов. Моя часть: серверная часть целиком (роли доступа, схема БД, жизненный цикл задач).
