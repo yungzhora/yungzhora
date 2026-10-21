@@ -48,10 +48,6 @@
 REST API на FastAPI, фоновое выполнение проверок через Celery и Redis, хранение в PostgreSQL (async SQLAlchemy), SSH-клиент, разбор результатов.
 `Python` `FastAPI` `PostgreSQL` `Celery` `Redis` `Docker`
 
-**[hacaton](https://github.com/yungzhora/hacaton)** — система строительного контроля, «Лидеры цифровой трансформации 2025».
-Командный проект за 48 часов. Моя часть: серверная часть целиком (роли доступа, схема БД, жизненный цикл задач).
-`TypeScript` `Node.js` `PostgreSQL` `Docker`
-
 **[SoulBridge](https://github.com/yungzhora/SoulBridge)** — сайт знакомств на Django и MySQL.
 `Python` `Django` `MySQL`
 
